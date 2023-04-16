@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariusz Dłubak</h1>
 <h3 align="center">A passionate JavaScript developer from Poland</h3>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **E-learning platform**
 
 - 💬 Ask me about **HTML, JavaScript, CSS, PHP**
 
