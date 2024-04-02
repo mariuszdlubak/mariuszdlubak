@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariusz Dłubak</h1>
-<h3 align="center">A passionate JavaScript developer from Poland</h3>
+<h3 align="center">A passionate PHP developer from Poland</h3>
 
 - 🔭 I’m currently working on **E-learning platform**
 
